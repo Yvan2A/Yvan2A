@@ -2,7 +2,7 @@
 
 - Je suis intéressé par le métier de développeur web front end
 
-- Je suis actuellement en formation avec INCO et souhaite poursuivre avec OpenClassRooms la formation de développeur Web en alternance.
+-  Après 5 semaines avec INCO Académie, je pousuit ma formatrion de developpeur web avec OpenClassrooms
 
 - Pour me contacter https://yvanremond.wixsite.com/website
 
